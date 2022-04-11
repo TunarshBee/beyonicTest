@@ -1,0 +1,42 @@
+.table {
+  position: absolute;
+  width: 80% !important;
+  min-height: 315px;
+  left: 17%;
+  top: 380px;
+
+  /* background: #C4C4C4; */
+  border-radius: 4px;
+}
+#standard-adornment-password {
+  width: 70px !important;
+  border: 0px !important;
+}
+.css-1nslmh4-MuiTableCell-root.MuiTableCell-head,
+.css-1nslmh4-MuiTableCell-root,
+.css-1bhpkcd-MuiTableCell-root,
+.css-2imjyh {
+  text-align: center !important;
+}
+.MuiBox-root .css-2imjyh {
+  text-align: center !important;
+  justify-content: center;
+  align-items: flex-end;
+}
+.editing {
+  margin-right: 12% !important;
+}
+#inputPassword5 {
+  background: #ffffff !important;
+  width: 230px !important;
+  border: 1px solid #80807d !important;
+  box-sizing: border-box !important;
+  border-radius: 4px !important;
+  flex: none !important;
+  order: 1 !important;
+  flex-grow: 0 !important;
+  margin: 8px 0px !important;
+}
+#inputTexts{
+    display: inline-block!important;
+}

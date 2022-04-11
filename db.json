@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "valueDate": "10-4-2022",
+      "movementType": "Money Transfer",
+      "transactionID": "1480636587",
+      "amount": "1,500.000 UGX",
+      "status": "active",
+      "id": "1"
+    },
+    {
+      "valueDate": "10-4-2022",
+      "id": "2",
+      "movementType": "Money Transfer",
+      "transactionID": "1480636587",
+      "amount": "1,500.000 UGX",
+      "status": "active"
+    },
+    {
+      "valueDate": "10-4-2022",
+      "id": "3",
+      "movementType": "Money Transfer",
+      "transactionID": "1480636587",
+      "amount": "1,500.000 UGX",
+      "status": "hold"
+    },
+    {
+      "valueDate": "10-4-2022",
+      "id": "4",
+      "movementType": "Money Transfer",
+      "transactionID": "1480636587",
+      "amount": "1,500.000 UGX",
+      "status": "active"
+    },
+    {
+      "valueDate": "10-4-2022",
+      "id": "5",
+      "movementType": "Money Transfer",
+      "transactionID": "1480636587",
+      "amount": "1,500.000 UGX",
+      "status": "error"
+    },
+    {
+      "valueDate": "10-4-2022",
+      "id": "6",
+      "movementType": "Money Transfer",
+      "transactionID": "1480636587",
+      "amount": "1,500.000 UGX",
+      "status": "active"
+    },
+    {
+      "valueDate": "11-4-2022",
+      "transactionID": "1400000000",
+      "movementType": "Airtime",
+      "amount": "1,555.999 UGX",
+      "status": "error",
+      "id": "XC8bVvU"
+    }
+  ]
+}

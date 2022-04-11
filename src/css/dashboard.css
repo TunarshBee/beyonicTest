@@ -1,0 +1,96 @@
+.section1 {
+  position: absolute;
+  padding-left: 17%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: space-around; */
+  background: #f3f3f1;
+  width: 100%;
+  z-index: 0;
+  min-height: 100px;
+}
+.section1 label{
+  font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 800;
+font-size: 26px;
+margin-right: 2%;
+line-height: 32px;
+color: #131313;
+}
+.section2 {
+  position: absolute;
+  left: 17%;
+  width: 85%;
+  top: 114px;
+  padding-right: 5%;
+}
+#standard-basic {
+    border-bottom: 2px solid #000000 !important ;
+}
+.section3 {
+    display: flex;
+    position: absolute;
+    left: 17%;
+    
+    padding-right: 5%;
+  width: 85%;
+  align-items: center;
+  justify-content: space-between;
+  top: 284px;
+}
+.localSearch {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 1px;
+  border: 1px solid #80807d;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.select {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 2%;
+  outline: none;
+}
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 2% !important;
+  font-size: 17px !important;
+}
+.section3Two,
+.filter,
+.edit {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.filter,
+.edit {
+  background: #F3F3F1;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  margin-right: 2%;
+}
+.filter select,
+.edit select {
+  background-color: #F3F3F1;
+  width: 118px;
+height: 32px;
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+}
+/* input::placeholder{
+  font-family: 'Proxima Nova' !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  line-height: 20px !important;
+  color: #131313 !important;
+} */
